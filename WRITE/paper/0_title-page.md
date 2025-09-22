@@ -11,13 +11,13 @@
 **Rayane Mohand Saidi^1^,
 Juan F. Iglesias MD^2^, 
 Diego Arroyo MD^1^,
-Jelisejevas Julius^1^,
+Julius Jelisejevas^1^,
 Charles Seydoux MD^3^, 
 Wesley Bennar^1^,
 Pascal Meier MD^1^, 
 Mario Togni MD^1,3^, 
 Stéphane Cook MD^1,3^, 
-Dorian Garin MD^1, 2^**
+Dorian Garin MD^1^**
 
 ^1^Department of Cardiology, University and Hospital Fribourg, 1708 Fribourg, Switzerland  
 
@@ -117,10 +117,30 @@ Email: dorian.garin@icloud.com
 
 
 
-**Abstract word count:** 0
 
-**Word count:** 111
 
-**Figures:** 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Abstract word count:** 571
+
+**Word count:** 2528
+
+**Figures:** 1
 
 **Tables:** 1

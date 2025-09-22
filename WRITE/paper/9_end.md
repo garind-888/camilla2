@@ -4,13 +4,13 @@ The authors declare that the research was conducted in the absence of any commer
 
 # Author contributions
 
-DG: writing – original draft (lead), analysis (lead). 
-RSM, DA, WB, MT, PM, SP: writing – review & editing (equal), data curation (lead), supervision (equal). 
-SC: writing – review & editing (lead), conceptualization (lead), investigation (lead), methodology (lead), supervision (lead).
+RSM: writing – original draft (lead), analysis (lead). 
+DA, JFI, WB, MT, PM, SC, JJ: writing – review & editing (equal), data curation (lead), supervision (equal). 
+DG: writing – review & editing (lead), conceptualization (lead), investigation (lead), methodology (lead), supervision (lead).
 
 # Funding
 
-None reported.
+This study was founded by the Fond Scientifique Cardiovasculaire and Fondation Cecile de Recherche Cardiovasculaire.
 
 # Data availability statement
 
