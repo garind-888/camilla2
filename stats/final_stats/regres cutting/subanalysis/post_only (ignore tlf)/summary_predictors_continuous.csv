@@ -1,0 +1,10 @@
+Outcome,Predictor,Predictor Type,Effect,P-value,Significance
+mld_late_lumen_change,dcb_inflation_max_time,continuous,0.01804420248638987,0.0004009965200349362,***
+mld_late_lumen_change,dcb_drug,categorical,,0.002204051507348657,**
+mld_late_lumen_change,mufr_acute_functional_gain,continuous,0.011718931475029042,0.002246023149717846,**
+mld_late_lumen_change,mld_acute_gain,continuous,0.7224294086307936,0.0073525949117393555,**
+mld_late_lumen_change,age,continuous,0.011565806950075074,0.042555418848423995,*
+mufr_late_functional_change,init_post_mufr,continuous,-0.4876380976362093,0.00019333684612676233,***
+mufr_late_functional_change,predilatation_diam_to_vessel,continuous,9.781931747030036,0.0013208159048106157,**
+mufr_late_functional_change,dcb_diam_to_vessel,continuous,11.225508133932372,0.002195530659810048,**
+mufr_late_functional_change,dcb_drug,categorical,,0.03531870889107787,*

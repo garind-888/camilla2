@@ -1,0 +1,21 @@
+{
+  "citation_style": "journal.csl",
+  "description": "Configuration file for document build settings",
+  "available_styles": {
+    "eurointervention.csl": "EuroIntervention journal style",
+    "cci.csl": "CCI journal style", 
+    "european-heart-journal.csl": "European Heart Journal style",
+    "journal.csl": "Generic journal style"
+  },
+  "build_settings": {
+    "number_sections": false,
+    "toc_depth": 3,
+    "template": "template.docx"
+  },
+  "manuscript": {
+    "title": "Title",
+    "subtitle": "Subtitle",
+    "journal": "Journal Name",
+    "editor": "Editor Name"
+  }
+}

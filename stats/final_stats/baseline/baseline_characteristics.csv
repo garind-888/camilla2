@@ -1,0 +1,22 @@
+Variable,N,Mean ± SD,Median (IQR),Category,N (%)
+Age (years),59.0,70.14 ± 8.23,72.00 (62.00-77.00),,
+eGFR (mL/min/1.73m²),29.0,74.83 ± 17.58,80.00 (64.00-91.00),,
+LVEF (%),34.0,56.35 ± 10.98,60.00 (48.00-65.00),,
+Female sex,,,,No,46 (78.0%)
+,,,,Yes,13 (22.0%)
+Hypertension,,,,Yes,36 (61.0%)
+,,,,No,23 (39.0%)
+Diabetes mellitus,,,,No,37 (62.7%)
+,,,,Yes,22 (37.3%)
+Hyperlipidemia,,,,Yes,41 (69.5%)
+,,,,No,18 (30.5%)
+Prior CABG,,,,No,57 (96.6%)
+,,,,Yes,2 (3.4%)
+Prior PCI,,,,Yes,45 (76.3%)
+,,,,No,14 (23.7%)
+Previous MI,,,,No,45 (76.3%)
+,,,,Yes,14 (23.7%)
+Clinical presentation,,,,CCS,52 (88.1%)
+,,,,NSTEMI,4 (6.8%)
+,,,,STEMI,2 (3.4%)
+,,,,UA,1 (1.7%)

@@ -1,0 +1,5 @@
+Outcome,Predictor,Predictor Type,OR,P-value,Significance
+mld_late_recoil (gain vs loss),clinical_presentation,categorical,,7.137113622377662e-08,***
+mld_net_gain (gain vs loss),age,continuous,1.222584121938701,0.04335617087101028,*
+mufr_late_functional_change (gain vs loss),predilatation_diam_to_vessel,continuous,17.230504005775863,0.0057893211781227475,**
+mufr_late_functional_change (gain vs loss),dcb_diam_to_vessel,continuous,14.382453462171883,0.010855940255055485,*

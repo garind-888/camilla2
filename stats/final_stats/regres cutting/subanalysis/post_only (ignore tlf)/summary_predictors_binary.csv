@@ -1,0 +1,5 @@
+Outcome,Predictor,Predictor Type,OR,P-value,Significance
+mld_late_lumen_change (gain vs loss),dcb_drug,categorical,,0.0033967156614742905,**
+mufr_late_functional_change (gain vs loss),init_post_mufr,continuous,0.8790670035102518,0.0051488940000004955,**
+mufr_late_functional_change (gain vs loss),predilatation_diam_to_vessel,continuous,16.77468783018441,0.008513090255418269,**
+mufr_late_functional_change (gain vs loss),dcb_diam_to_vessel,continuous,9.927501587829134,0.027463823010859662,*

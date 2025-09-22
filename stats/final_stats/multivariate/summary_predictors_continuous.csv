@@ -1,0 +1,10 @@
+Outcome,Predictor,Predictor Type,Effect,P-value,Significance
+mld_late_lumen_change,dcb_inflation_max_time,continuous,0.010726686709460751,0.015035107297888947,*
+mld_late_recoil,dcb_diam_to_vessel,continuous,0.7201597526655932,0.0007301032416337208,***
+mld_late_recoil,predilatation_diam_to_vessel,continuous,0.5199050594165557,0.004088706077552673,**
+mld_late_recoil,is_female,binary,-0.4218227424749167,0.009753141876609505,**
+mld_net_gain,dcb_inflation_max_time,continuous,0.037427223938851846,4.5242239020201526e-10,***
+mufr_late_functional_change,dcb_inflation_max_time,continuous,0.40619159827740337,0.011372265533116611,*
+mufr_late_functional_change,dcb_diam_to_vessel,continuous,12.684072600189928,0.014778892859852335,*
+mufr_net_functional_gain,dcb_inflation_max_time,continuous,1.1559603187510163,0.017316329256438116,*
+mufr_net_functional_gain,has_diabetes,binary,-40.86666666666667,0.045230449713502256,*

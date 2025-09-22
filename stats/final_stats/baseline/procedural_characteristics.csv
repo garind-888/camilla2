@@ -1,0 +1,60 @@
+Variable,N,Mean ± SD,Median (IQR),Category,N (%)
+Baseline lesion length (mm),59.0,23.24 ± 6.30,25.00 (15.00-30.00),,
+Baseline reference diameter (mm),59.0,2.42 ± 0.59,2.50 (1.80-2.80),,
+Baseline MLD (mm),17.0,0.90 ± 0.41,1.00 (0.50-1.30),,
+SYNTAX score,33.0,12.27 ± 8.82,13.00 (7.00-16.00),,
+Max DCB diameter (mm),44.0,2.53 ± 0.36,2.50 (2.42-2.80),,
+Max DCB length (mm),18.0,25.83 ± 10.61,27.50 (20.00-30.00),,
+Max DCB inflation pressure (atm),42.0,8.67 ± 2.94,8.50 (6.00-10.00),,
+Max pre-dilation balloon diameter (mm),51.0,2.98 ± 0.55,3.00 (3.00-3.00),,
+Max pre-dilation balloon pressure (atm),53.0,16.57 ± 5.82,16.00 (14.00-20.00),,
+Planned DAPT duration (months),41.0,7.05 ± 2.87,6.00 (6.00-6.00),,
+DCB diameter (mm),59.0,2.55 ± 0.36,2.50 (2.50-2.80),,
+DCB length (mm),16.0,27.19 ± 13.90,25.00 (18.75-30.00),,
+DCB max inflation time (s),35.0,64.11 ± 11.14,60.00 (60.00-64.00),,
+DCB max pressure (atm),49.0,8.33 ± 2.91,8.00 (6.00-10.00),,
+DCB diameter-to-vessel ratio,59.0,1.12 ± 0.31,1.09 (0.86-1.39),,
+DCB length-to-vessel ratio,16.0,1.15 ± 0.36,1.00 (1.00-1.05),,
+Max pre-dilation balloon length (mm),30.0,17.77 ± 6.13,15.00 (15.00-22.00),,
+LAD,,,,Yes,38 (64.4%)
+,,,,No,21 (35.6%)
+RCA,,,,No,51 (86.4%)
+,,,,Yes,8 (13.6%)
+LCX,,,,No,48 (81.4%)
+,,,,Yes,11 (18.6%)
+Bifurcation lesion,,,,No,38 (64.4%)
+,,,,Yes,21 (35.6%)
+Calcification present,,,,No,30 (88.2%)
+,,,,3.0,3 (8.8%)
+,,,,Yes,1 (2.9%)
+Chronic total occlusion,,,,No,44 (74.6%)
+,,,,Yes,15 (25.4%)
+Ostial lesion,,,,No,32 (54.2%)
+,,,,Yes,27 (45.8%)
+Intravascular imaging used,,,,No,59 (100.0%)
+Lesion preparation performed,,,,Yes,52 (88.1%)
+,,,,No,7 (11.9%)
+Cutting balloon,,,,No,42 (71.2%)
+,,,,Yes,17 (28.8%)
+Scoring balloon,,,,No,57 (96.6%)
+,,,,Yes,2 (3.4%)
+OPN balloon,,,,No,58 (98.3%)
+,,,,Yes,1 (1.7%)
+Rotablator,,,,No,59 (100.0%)
+Orbital atherectomy,,,,No,59 (100.0%)
+Shockwave,,,,No,56 (94.9%)
+,,,,Yes,3 (5.1%)
+DCB drug type,,,,Paclitaxel,44 (77.2%)
+,,,,No,13 (22.8%)
+Number of PCI vessels,,,,Mean ± SD,1.6 ± 0.7
+Number of DCBs used,,,,Mean ± SD,0.9 ± 0.8
+Hybrid PCI,,,,No,49 (83.1%)
+,,,,Yes,10 (16.9%)
+Aspirin at discharge,,,,Yes,49 (83.1%)
+,,,,No,10 (16.9%)
+P2Y12 inhibitor,,,,Prasugrel,23 (46.0%)
+,,,,Clopidogrel,21 (42.0%)
+,,,,None,5 (10.0%)
+,,,,Other,1 (2.0%)
+Oral anticoagulation,,,,None,26 (92.9%)
+,,,,DOAC,2 (7.1%)
